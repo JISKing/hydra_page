@@ -36,7 +36,7 @@ function App() {
         <Background />
         <MenuFixed showMenu={showMenu} />
         <div className="contentWrapper">
-          <Router>
+          <Router basename="/hydra_page">
             <Header />
             <HeaderINFO />
 
