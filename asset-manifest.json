@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hydra_page/static/css/main.0c18c1f6.css",
-    "main.js": "/hydra_page/static/js/main.b475d7bc.js",
+    "main.css": "/hydra_page/static/css/main.559a082a.css",
+    "main.js": "/hydra_page/static/js/main.1ef192b0.js",
     "static/js/787.3f8501aa.chunk.js": "/hydra_page/static/js/787.3f8501aa.chunk.js",
     "static/media/head-picture.svg": "/hydra_page/static/media/head-picture.cb35ba80258318b99a7d1195a8d0d263.svg",
     "static/media/card1.svg": "/hydra_page/static/media/card1.b7c3e9c2c42194a2c72aef67b8e8e09e.svg",
@@ -51,12 +51,12 @@
     "static/media/card-vector.svg": "/hydra_page/static/media/card-vector.cdafeb142f55564ac7ae7e03e43cb453.svg",
     "static/media/line-info2.svg": "/hydra_page/static/media/line-info2.33f03951c1b3db53e536f37d5e369e93.svg",
     "static/media/line-info1.svg": "/hydra_page/static/media/line-info1.6e96df8bcdd7d24cc89465304f0f38a4.svg",
-    "main.0c18c1f6.css.map": "/hydra_page/static/css/main.0c18c1f6.css.map",
-    "main.b475d7bc.js.map": "/hydra_page/static/js/main.b475d7bc.js.map",
+    "main.559a082a.css.map": "/hydra_page/static/css/main.559a082a.css.map",
+    "main.1ef192b0.js.map": "/hydra_page/static/js/main.1ef192b0.js.map",
     "787.3f8501aa.chunk.js.map": "/hydra_page/static/js/787.3f8501aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c18c1f6.css",
-    "static/js/main.b475d7bc.js"
+    "static/css/main.559a082a.css",
+    "static/js/main.1ef192b0.js"
   ]
 }
